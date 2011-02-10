@@ -1,0 +1,12 @@
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53\bin\Debug\AWSHelper.dll
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53\bin\Debug\AWSHelper.pdb
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53\bin\Debug\Microsoft.Http.dll
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53\obj\x86\Debug\AWSHelper.dll
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53\obj\x86\Debug\AWSHelper.pdb
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\AWSHelper\bin\Debug\AWSHelper.dll
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\AWSHelper\bin\Debug\AWSHelper.pdb
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\AWSHelper\bin\Debug\Microsoft.Http.dll
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\AWSHelper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\AWSHelper\obj\x86\Debug\AWSHelper.dll
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\AWSHelper\obj\x86\Debug\AWSHelper.pdb

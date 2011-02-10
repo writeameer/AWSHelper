@@ -1,0 +1,27 @@
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\Route53\Route53Sample\bin\Debug\Route53Sample.exe.config
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\Route53\Route53Sample\bin\Debug\Route53Sample.exe
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\Route53\Route53Sample\bin\Debug\Route53Sample.pdb
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\Route53\Route53Sample\bin\Debug\Route53.dll
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\Route53\Route53Sample\bin\Debug\Microsoft.Http.dll
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\Route53\Route53Sample\bin\Debug\Route53.pdb
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\Route53\Route53Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\Route53\Route53Sample\obj\x86\Debug\Route53Sample.exe
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\Route53\Route53Sample\obj\x86\Debug\Route53Sample.pdb
+C:\Users\Administrator\Dropbox\MyDocs\Progs\Route53\Route53Sample\bin\Debug\Route53Sample.exe.config
+C:\Users\Administrator\Dropbox\MyDocs\Progs\Route53\Route53Sample\bin\Debug\Route53Sample.exe
+C:\Users\Administrator\Dropbox\MyDocs\Progs\Route53\Route53Sample\bin\Debug\Route53Sample.pdb
+C:\Users\Administrator\Dropbox\MyDocs\Progs\Route53\Route53Sample\bin\Debug\Route53.dll
+C:\Users\Administrator\Dropbox\MyDocs\Progs\Route53\Route53Sample\bin\Debug\Microsoft.Http.dll
+C:\Users\Administrator\Dropbox\MyDocs\Progs\Route53\Route53Sample\bin\Debug\Route53.pdb
+C:\Users\Administrator\Dropbox\MyDocs\Progs\Route53\Route53Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\MyDocs\Progs\Route53\Route53Sample\obj\x86\Debug\Route53Sample.exe
+C:\Users\Administrator\Dropbox\MyDocs\Progs\Route53\Route53Sample\obj\x86\Debug\Route53Sample.pdb
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53Sample\bin\Debug\Route53Sample.exe.config
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53Sample\obj\x86\Debug\Route53Sample.exe
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53Sample\obj\x86\Debug\Route53Sample.pdb
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53Sample\bin\Debug\Route53Sample.exe
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53Sample\bin\Debug\Route53Sample.pdb
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53Sample\bin\Debug\AWSHelper.dll
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53Sample\bin\Debug\Microsoft.Http.dll
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53Sample\bin\Debug\AWSHelper.pdb
+C:\Software\DropBox\My Dropbox\MyDocs\Progs\AWSHelper\Route53Sample\obj\x86\Debug\ResolveAssemblyReference.cache
