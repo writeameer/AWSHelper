@@ -25,7 +25,7 @@ namespace AWSHelper.Route53
 
             // Add Name Element with Domain Name
             var nameNode = xmlDoc.CreateElement("Name", Route53Ns);
-            nameNode.InnerText = "cloudoman.com";
+            nameNode.InnerText = domainName;
             rootNode.AppendChild(nameNode);
 
             // Add Caller Reference
